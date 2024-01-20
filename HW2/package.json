@@ -1,0 +1,12 @@
+{
+  "name": "gen_rand_pass",
+  "version": "1.0.0",
+  "description": "Library for generating random passwords based on character length.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/MaksimMalkovV/NodeJS_GB",
+  "author": "Max_MalkoV",
+  "license": "ISC"
+}
